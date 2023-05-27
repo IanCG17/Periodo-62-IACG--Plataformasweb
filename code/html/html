@@ -11,9 +11,9 @@
 
             <h1>Ian Córdova</h1>
             <ul>
-                <l1>Estudios</l1>
-                <l1>Experiencia</l1>
-                <l1>referencias</l1>
+                <li>Estudios</li>
+                <li>Experiencia</li>
+                <li>referencias</li>
             </ul>
             <h2>Datos personales</h2>
             <p>Gye, Ecuador</p>
