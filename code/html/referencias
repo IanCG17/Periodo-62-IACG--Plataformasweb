@@ -8,8 +8,10 @@
 
     
         <body>
-
-            <h1>Ian Córdova</h1>
+            <header>
+                <h1>Ian Córdova</h1>
+            </header>
+        <nav>
             <ul>
                 
                 <li><a href= "Datos Personales" >Datos Personales</a></li>
@@ -17,8 +19,11 @@
                 <li><a href= "Experiencias">Experiencias</a></li>
                 <li><a href= "#">Referencia</a></li>
             </ul>
-            <h2>Referencia</h2>
-            <p>Gye, Ecuador</p>
+        </nav>
+            <main>
+                <h2>Datos personales</h2>
+                <p>Gye, Ecuador</p>
+            </main>
 
 
 

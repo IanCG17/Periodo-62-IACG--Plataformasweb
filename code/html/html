@@ -9,16 +9,24 @@
     
         <body>
             <img src="img\yo">
-            <h1>Ian Córdova</h1>
+            <header>
+                <h1>Ian Córdova</h1>
+            </header>
+        <nav>
             <ul>
-                
                 <li><a href= "#" >Datos Personales</a></li>
                 <li><a href= "estudios.html">Estudios realizados</a></li>
                 <li><a href= "experiencias.html">Experiencias</a></li>
                 <li><a href= "referencias.html">Referencia</a></li>
             </ul>
+        </nav>
+        <main>
             <h2>Datos personales</h2>
             <p>Gye, Ecuador</p>
+        </main>
+        <footer>
+            <small><i>Copyright &copy; 2023 Ian Córdova</i></small>
+        </footer>
 
 
 
