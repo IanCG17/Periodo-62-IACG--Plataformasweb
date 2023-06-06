@@ -5,3 +5,11 @@ h1{
     font-size: 36px;
     color: darkblue;
 }
+h2, h3{
+    color: brown;
+    font-stretch: condensed;
+}
+dl dt {
+    color: chartreuse;
+}
+
