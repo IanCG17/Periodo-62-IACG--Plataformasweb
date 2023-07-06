@@ -1,0 +1,12 @@
+p {
+    float: right;
+   
+    width: 200px;
+}
+
+.limpiar {
+    clear: both;
+}
+img{
+    float: left;
+}

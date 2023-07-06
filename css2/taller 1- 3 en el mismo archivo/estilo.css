@@ -1,0 +1,12 @@
+.posicion_absoluta{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: brown;
+}
+.posicio_relativa{
+    position: relative;
+    top: 50px;
+    left: 50px;
+    background-color: lightcoral;
+}
