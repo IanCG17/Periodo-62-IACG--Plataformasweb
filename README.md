@@ -1,3 +1,4 @@
+# RE-ORGANIZADO 
 # Periodo-62-IACG--Plataformasweb 
 ## Carrera de ing en computación
 ## Ian Córdova icordova1@est.ups.edu.ec
@@ -6,3 +7,5 @@
 - HTML 
 - CSS2 Y CSS3
 - Javascript
+
+  
